@@ -28,7 +28,7 @@ Set up the appropiate device on the settings page of this plugin in the Signal K
 - UDP/TCP: `port`
 
 **Ignore Checksum**
-- If you want to ignore checksum, use this option, default ON
+- If you want to ignore checksum, use this option, default `ON`
 
 **SK Paths**
 - Give each device unique SK paths 
