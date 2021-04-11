@@ -20,12 +20,12 @@ Set up the appropiate device on the settings page of this plugin in the Signal K
 
 **Connection details**
 - Serial: Enter device path e.g `/dev/ttyUSB0`
-- UDP: *ignored*
+- UDP: *`ignored`*
 - TCP: Enter `host` IP address
 
 **Port**
-- Serial: *ignored*
-- UDP/TCP: port
+- Serial: *`ignored`*
+- UDP/TCP: `port`
 
 **Ignore Checksum**
 - If you want to ignore checksum, use this option, default ON
