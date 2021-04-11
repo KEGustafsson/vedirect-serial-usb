@@ -36,7 +36,8 @@ Set up the appropiate device on the settings page of this plugin in the Signal K
 ### License
 
 ```
-Copyright 2018 Joachim Bakke <github@heiamoss.com>, Fabian Tollenaar <fabian@decipher.industries> and Karl-Erik Gustafsson <ke.gustafsson@gmail.com>
+Copyright 2018 Joachim Bakke <github@heiamoss.com>, Fabian Tollenaar <fabian@decipher.industries> and 
+Karl-Erik Gustafsson <ke.gustafsson@gmail.com>
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
